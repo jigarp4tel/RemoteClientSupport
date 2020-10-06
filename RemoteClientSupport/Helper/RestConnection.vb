@@ -10,8 +10,8 @@ Namespace Helper
 
     Public Class RestConnection
 
-        Dim jsonData As String = "{""groupid"":""g176021847""}"
-        Private Const AccessToken As String = "10412826-XjAzWk5thcN4K4Yw7XGq"
+        Dim jsonData As String = "{""groupid"":""g176111429""}"
+        Private Const AccessToken As String = "10435310-iDXxYbaR7SeBmDywhvVp"
         Dim postReq As HttpWebRequest
 
         Friend Function TestConnection() As HttpWebRequest
